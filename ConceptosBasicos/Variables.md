@@ -23,3 +23,11 @@ Tenemos dos zonas donde las podemos almacenar, la área local y la de entorno.
 | **export nombre_var=valor_var**  | Definir variable de entorno y asignarle un valor |
 | **export nombre_var**            | Convertir variable local a variable de entorno |
 | **unset nombre_var**             | Eliminar una variable |
+
+## Ejemplos
+```bash
+VARIABLE=5
+echo $VARIABLE
+
+# Esto imprime 5
+```
