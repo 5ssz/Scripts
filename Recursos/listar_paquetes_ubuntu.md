@@ -17,7 +17,7 @@ En caso de buscar algun paquete en concreto, podemos utilizar el comando `grep`:
 apt list --installed | grep "nombre-paquete"
 ```
 
-## dpkg.
+## dpkg
 El comando `dpkg` es una herramienta de bajo nivel que se utiliza para instalar, configurar y administrar paquetes de Debian. Para listar todos los paquetes instalados podemos utilizar cualquiera de los siguientes comandos:
 ```shell
 dpkg-query -l
