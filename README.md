@@ -8,4 +8,4 @@ echo "Hello, World!"
 - Variables de entorno
 - Variables predefinidas
 
-2. Listar paquetes Ubuntu(https://5ssz.github.io/Sistemas/Recursos/listar_paquetes_ubuntu)
+2. [Listar paquetes Ubuntu](https://5ssz.github.io/Sistemas/Recursos/listar_paquetes_ubuntu)
