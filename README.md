@@ -1,4 +1,4 @@
-# Scripts
+# Sistemas
 ```bash
 echo "Hello, World!"
 ```
