@@ -1,1 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9eaea;
+  }
+  
+h1 {
+    color: #333;
+    text-align: center;
+    margin-top: 50px;
+  }
 
+  
+ol {
+    padding-left: 30px;
+  }
+  
+li {
+    margin-bottom: 5px;
+  }
+  
+a {
+    color: #008cba;
+    text-decoration: none;
+  }
+  
